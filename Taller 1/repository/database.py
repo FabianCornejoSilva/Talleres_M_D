@@ -1,0 +1,3 @@
+class BaseDatos:
+    alumnos = {}
+    asignaturas = {}
